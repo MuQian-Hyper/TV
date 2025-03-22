@@ -169,7 +169,9 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226795/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227313/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226856/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227233/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226196/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226874/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226164/index.m3u8
@@ -224,7 +226,9 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226728/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227245/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226139/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226737/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227227/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226169/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226801/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226140/index.m3u8
@@ -327,22 +331,29 @@ http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPtFfVFX0AVycM8b4Xmbcl4%2CEND
 
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://live.fanmingming.cn/tv/辽宁都市.png" group-title="地方频道",辽宁都市
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227355/index.m3u8
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://live.fanmingming.cn/tv/辽宁影视剧.png" group-title="地方频道",辽宁影视剧
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227331/index.m3u8
 #EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.cn/tv/辽宁体育.png" group-title="地方频道",辽宁体育
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227334/index.m3u8
 #EXTINF:-1 tvg-name="辽宁生活" tvg-logo="https://live.fanmingming.cn/tv/辽宁生活.png" group-title="地方频道",辽宁生活
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227319/index.m3u8
 #EXTINF:-1 tvg-name="辽宁北方" tvg-logo="https://live.fanmingming.cn/tv/辽宁北方.png" group-title="地方频道",辽宁北方
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227327/index.m3u8
 #EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共.png" group-title="地方频道",辽宁公共
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227224/index.m3u8
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://live.fanmingming.cn/tv/辽宁经济.png" group-title="地方频道",辽宁经济
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227322/index.m3u8
 #EXTINF:-1 tvg-name="辽宁教育·青少" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育·青少.png" group-title="地方频道",辽宁教育·青少
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227297/index.m3u8
 #EXTINF:-1 tvg-name="辽宁移动电视" tvg-logo="https://live.fanmingming.cn/tv/辽宁移动电视.png" group-title="地方频道",辽宁移动电视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227328/index.m3u8
-#EXTINF:-1 tvg-name="辽宁宜佳购物" tvg-logo="https://live.fanmingming.cn/tv/辽宁宜佳购物.png" group-title="地方频道",辽宁宜佳购物
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227309/index.m3u8
