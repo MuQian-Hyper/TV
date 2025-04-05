@@ -24,8 +24,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227206/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226177/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227215/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227402/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226201/index.m3u8
@@ -40,13 +38,9 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227324/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226189/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227218/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227338/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226200/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227221/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227341/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
@@ -57,8 +51,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226175/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227350/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226188/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227325/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227466/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
